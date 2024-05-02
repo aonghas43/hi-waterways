@@ -1,0 +1,84 @@
+<!-- version 0.9 -->
+<!--
+HTML Container for
+- custom CSS - leafetjs css overrides and others
+- tree data as Javascript
+- Javascript code for layers, styling etc.
+This file is loaded into squarespace.html via jQuery, for testing only
+-->
+
+<div id="map" style="width: 100%; height: 500px;"></div>
+
+<style>
+  html, body {
+    height: 100%;
+    margin: 0;
+	
+}
+
+.leaflet-container {
+    height: 800px;
+    width: 1200px;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+details > summary {
+  padding: 4px;
+  width: 200px;
+  background-color:  #8FBC8F;
+  border: none;
+  box-shadow: 1px 1px 2px #bbbbbb;
+  cursor: pointer;
+  text-align: center;
+}
+
+details > p, details > ul {
+  background-color: #eeeeee;
+  padding: 4px;
+  margin: 0;
+  box-shadow: 1px 1px 2px #bbbbbb;
+}
+
+
+</style>
+
+<script type="text/javascript">
+var data = {
+}
+;
+
+
+<!--
+// written with assistance from information and code examples here
+// "Using SVG icons for Leafletjs" : https://onestepcode.com/leaflet-markers-svg-icons/
+// leafletjs examples: https://leafletjs.com/examples/geojson/example.html
+// https://gis.stackexchange.com/questions/111410/displaying-link-in-popup-with-leaflet
+-->
+// map code here
+{
+	 "use strict";
+		 
+	// base maps
+	    var tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+						maxZoom: 20,
+						attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+					});
+};
+
+
+<details>
+<summary>Acknowledgements</summary>
+<p>
+If you want to reuse or copy this application : it is licensed using the <a href="./LICENSE">APACHE 2 licence</a> and uses the <a href="https://leafletjs.com/">Leafletjs library </a> which is licenced under the <a href="https://github.com/Leaflet/Leaflet/blob/main/LICENSE"> BSD 2 licence</a>.
+TL;DR : "OK to copy and reuse"
+<p>
+Data and pictures submitted by members of Histon and Impington community, and collated, cleaned, analysed etc by HIGS using other freely available data or software from :
+<ul>
+<li><a href="https://www.openstreetmap.org/copyright/">OpenStreetmaps data</a></li>
+<li><a href="https://www.ordnancesurvey.co.uk/products/os-open-uprn">UK Ordnance survey data </a></li>
+<li><a href="">National Library of Scotland old maps</a></li>
+<li><a href="https://qgis.org/en/site/">QGIS software</a></li>
+</ul>
+</details>
+</div>
