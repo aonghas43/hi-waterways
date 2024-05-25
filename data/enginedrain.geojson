@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "enginedrain",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::27700" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 124807, "id": "0C8469AF-BEE6-4146-B1E5-72BB5E515A9D", "flow_direction": "in direction", "length": 1296.0, "fictitious": "0", "form": "inlandRiver", "watercourse_name": "Engine Drain", "watercourse_name_alternative": null, "start_node": "ED95E4DE-659C-41EC-ACFB-8BE985995946", "end_node": "2CBE6E8C-FE43-40EC-A785-C52F6A6F5CF2" }, "geometry": { "type": "LineString", "coordinates": [ [ 549281.589999999967404, 270617.28000000002794 ], [ 549268.770000000018626, 270848.19 ], [ 549678.540000000037253, 271699.599999999976717 ], [ 549717.310000000055879, 271812.68 ] ] } },
+{ "type": "Feature", "properties": { "fid": 130780, "id": "730D3EF7-356D-4A70-9B21-8435285293B1", "flow_direction": "in direction", "length": 247.0, "fictitious": "0", "form": "inlandRiver", "watercourse_name": null, "watercourse_name_alternative": null, "start_node": "43366129-B39B-40DF-967F-C3BDA11C8EF6", "end_node": "ED95E4DE-659C-41EC-ACFB-8BE985995946" }, "geometry": { "type": "LineString", "coordinates": [ [ 549525.25, 270656.85999999998603 ], [ 549281.589999999967404, 270617.28000000002794 ] ] } }
+]
+}

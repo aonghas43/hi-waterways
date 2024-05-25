@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "oakington-brook",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::27700" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 130658, "id": "F8E4B01F-5807-47FD-A7BD-A409501A8392", "flow_direction": "in direction", "length": 2908.0, "fictitious": "0", "form": "inlandRiver", "watercourse_name": null, "watercourse_name_alternative": null, "start_node": "77F163CF-3A62-421E-8741-6CD6A5E37C79", "end_node": "70964989-6E7A-4A87-B62F-2C5971C74386" }, "geometry": { "type": "LineString", "coordinates": [ [ 539481.19, 263451.47 ], [ 539516.98, 263450.48 ], [ 539608.88, 263489.12 ], [ 539797.62, 263506.9 ], [ 539900.5, 263531.06 ], [ 540262.63, 263748.74 ], [ 540863.08, 264231.66 ], [ 540916.16, 264211.86 ], [ 541008.87, 264144.22 ], [ 541130.86, 264139.81 ], [ 541237.74, 264236.15 ], [ 541370.29, 264257.17 ], [ 541492.03, 264321.23 ], [ 541543.99, 264323.82 ], [ 541610.55, 264369.58 ], [ 541652.46, 264433.1 ], [ 541722.91, 264483.29 ], [ 541814.0, 264585.38 ], [ 541887.17, 264707.48 ] ] } }
+]
+}

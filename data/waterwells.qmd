@@ -1,10 +1,10 @@
 <!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
 <qgis version="3.28.14-Firenze">
-  <identifier></identifier>
+  <identifier>Water_wells</identifier>
   <parentidentifier></parentidentifier>
-  <language></language>
+  <language>ENG</language>
   <type>dataset</type>
-  <title></title>
+  <title>Water_wells</title>
   <abstract></abstract>
   <contact>
     <name></name>

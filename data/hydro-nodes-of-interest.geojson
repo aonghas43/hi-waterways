@@ -369,20 +369,6 @@
 { "type": "Feature", "properties": { "fid": 143637, "id": "B4E39EAF-802D-4940-913B-6D24390F5FF1", "hydro_node_category": "junction" }, "geometry": { "type": "Point", "coordinates": [ 553329.38, 229173.329999999987194 ] } },
 { "type": "Feature", "properties": { "fid": 143644, "id": "AF9135A0-67F3-45ED-80C5-400C7E49B3C9", "hydro_node_category": "junction" }, "geometry": { "type": "Point", "coordinates": [ 552488.51, 232284.76 ] } },
 { "type": "Feature", "properties": { "fid": 143656, "id": "C33D9E03-EE02-4A17-B076-EC176A72228F", "hydro_node_category": "junction" }, "geometry": { "type": "Point", "coordinates": [ 552376.910000000032596, 234356.670000000012806 ] } },
-{ "type": "Feature", "properties": { "fid": 143657, "id": "9496E7EA-7B26-489F-8BDD-3B169D14B611", "hydro_node_category": "junction" }, "geometry": { "type": "Point", "coordinates": [ 552297.449999999953434, 234465.920000000012806 ] } },
-{ "type": "Feature", "properties": { "fid": 144530, "id": "46B10308-9EDB-49F1-9F3E-A6D26732593A", "hydro_node_category": "junction" }, "geometry": { "type": "Point", "coordinates": [ 374243.919999999983702, 204899.269999999989523 ] } },
-{ "type": "Feature", "properties": { "fid": 144531, "id": "784A26D4-023D-4484-B41A-6A935DFE6A33", "hydro_node_category": "junction" }, "geometry": { "type": "Point", "coordinates": [ 373846.76, 205087.41 ] } },
-{ "type": "Feature", "properties": { "fid": 144624, "id": "24030CD2-7962-4D36-9738-4BF9A804B291", "hydro_node_category": "junction" }, "geometry": { "type": "Point", "coordinates": [ 376044.63, 202377.63 ] } },
-{ "type": "Feature", "properties": { "fid": 144633, "id": "3EA93F6C-41A9-4985-87B0-E1D0A0E5B5D2", "hydro_node_category": null }, "geometry": { "type": "Point", "coordinates": [ 374927.840000000025611, 203804.700000000011642 ] } },
-{ "type": "Feature", "properties": { "fid": 144648, "id": "FF54CB6D-E53C-4DCD-A6D6-BD11500CCBAD", "hydro_node_category": "junction" }, "geometry": { "type": "Point", "coordinates": [ 374354.849999999976717, 204680.38 ] } },
-{ "type": "Feature", "properties": { "fid": 144770, "id": "35395C5D-7C0F-463D-9767-E69033684887", "hydro_node_category": null }, "geometry": { "type": "Point", "coordinates": [ 375899.669999999983702, 198239.5 ] } },
-{ "type": "Feature", "properties": { "fid": 158625, "id": "3A45B312-FB6E-4BF7-96C6-BD5038C99311", "hydro_node_category": "junction" }, "geometry": { "type": "Point", "coordinates": [ 361838.770000000018626, 126510.04 ] } },
-{ "type": "Feature", "properties": { "fid": 158697, "id": "E8B27938-115C-4821-AE49-727431456CB1", "hydro_node_category": null }, "geometry": { "type": "Point", "coordinates": [ 363913.64000000001397, 128711.89 ] } },
-{ "type": "Feature", "properties": { "fid": 158698, "id": "543DA3A9-FB90-4A2E-98B3-401A6EE894A0", "hydro_node_category": null }, "geometry": { "type": "Point", "coordinates": [ 363927.10999999998603, 128728.29 ] } },
-{ "type": "Feature", "properties": { "fid": 158700, "id": "4FABC597-689E-40E2-B057-4CF8742CF4DD", "hydro_node_category": "source" }, "geometry": { "type": "Point", "coordinates": [ 365382.63, 129234.31 ] } },
-{ "type": "Feature", "properties": { "fid": 158847, "id": "B990B421-3FFC-4D30-95E2-B83BC10FB578", "hydro_node_category": "junction" }, "geometry": { "type": "Point", "coordinates": [ 355436.0, 122665.5 ] } },
-{ "type": "Feature", "properties": { "fid": 158865, "id": "07C91F93-82DC-442D-B476-2B499468CC39", "hydro_node_category": "junction" }, "geometry": { "type": "Point", "coordinates": [ 361013.349999999976717, 125544.83 ] } },
-{ "type": "Feature", "properties": { "fid": 158866, "id": "A439432A-D50D-4358-9A0C-74E177F686E7", "hydro_node_category": "source" }, "geometry": { "type": "Point", "coordinates": [ 361029.5, 125711.41 ] } },
-{ "type": "Feature", "properties": { "fid": 158867, "id": "F50C8332-7542-4747-96CE-6EAFA5E145A4", "hydro_node_category": "junction" }, "geometry": { "type": "Point", "coordinates": [ 361036.099999999976717, 125674.4 ] } }
+{ "type": "Feature", "properties": { "fid": 143657, "id": "9496E7EA-7B26-489F-8BDD-3B169D14B611", "hydro_node_category": "junction" }, "geometry": { "type": "Point", "coordinates": [ 552297.449999999953434, 234465.920000000012806 ] } }
 ]
 }
