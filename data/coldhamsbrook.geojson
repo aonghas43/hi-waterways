@@ -1,9 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "coldhamsbrook",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::27700" } },
-"features": [
-{ "type": "Feature", "properties": { "fid": 130853, "id": "188B6EF9-47A1-4A82-9E8C-C2092E342D5F", "flow_direction": "in direction", "length": 414.0, "fictitious": "0", "form": "inlandRiver", "watercourse_name": "Coldham's Brook", "watercourse_name_alternative": null, "start_node": "32FCA04C-9E76-40CF-8D94-8F2192E49D40", "end_node": "9CE1CB64-00C7-46C8-A145-688BE14CA2DE" }, "geometry": { "type": "LineString", "coordinates": [ [ 547253.63, 259529.329999999987194 ], [ 547284.46999999997206, 259578.049999999988358 ], [ 547350.75, 259750.579999999987194 ], [ 547361.099999999976717, 259831.35 ], [ 547341.67000000004191, 259903.019999999989523 ], [ 547328.810000000055879, 259911.76 ] ] } },
-{ "type": "Feature", "properties": { "fid": 130856, "id": "3B2AE1AE-55BA-4CB2-88CB-7046FFA2E0FB", "flow_direction": "in direction", "length": 224.0, "fictitious": "0", "form": "inlandRiver", "watercourse_name": null, "watercourse_name_alternative": null, "start_node": "9CE1CB64-00C7-46C8-A145-688BE14CA2DE", "end_node": "E16034ED-2C0F-4496-8E7B-BE433AAA73D7" }, "geometry": { "type": "LineString", "coordinates": [ [ 547328.810000000055879, 259911.76 ], [ 547297.069999999948777, 259919.37 ], [ 547273.96999999997206, 260014.79 ], [ 547231.78000000002794, 260097.450000000011642 ] ] } }
-]
-}
