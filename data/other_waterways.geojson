@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "other_waterways",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::27700" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "what" }, "geometry": null }
+]
+}
